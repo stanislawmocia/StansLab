@@ -3,4 +3,4 @@ Blog
 
 Pierwszy wpis
 
-[testowy link]{home.md}
+[testowy link](home.md)
